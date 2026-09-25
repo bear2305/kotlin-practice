@@ -1,5 +1,5 @@
 print("hello world to kotlin")
-println("print line in kotlin")
+println("print linde in kotlin")
 
 
 
