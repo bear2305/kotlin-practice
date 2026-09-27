@@ -6,4 +6,6 @@ val namex = "ama"
 println(name + " " + namex)
 //printing a variable  inside a string
 print("$name  $namex")
+//character escape in print
+print("hello you current balance")
 
