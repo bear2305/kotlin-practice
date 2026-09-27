@@ -2,5 +2,6 @@
 var name = "mary"
 //immutable
 val namex = "ama"
-print
+//print concatination of strings
+println("$mary+")
 
