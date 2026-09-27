@@ -1,3 +1,6 @@
 //mutable variables like javascript
 var name = "mary"
-//immutable variables
+//immutable
+val namex = "ama"
+print
+
