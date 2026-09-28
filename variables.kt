@@ -1,7 +1,7 @@
 //mutable variables like javascript
 var name = "mary"
 //immutable
-val namex = "ama"
+val namex = "ama jones"
 //print concatination of strings
 println(name + " " + namex)
 //printing a variable  inside a string
