@@ -1,5 +1,5 @@
 
-fun main()
+fun main(){
 //mutable variables like javascript
 var name = "mary"
 //immutable
