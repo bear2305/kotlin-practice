@@ -1,3 +1,5 @@
+
+fun
 //mutable variables like javascript
 var name = "mary"
 //immutable
